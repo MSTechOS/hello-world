@@ -38,11 +38,11 @@ int main() {
 	printf("%d", result);
 
 
-	//printf("Enter string 3\n");
-	//scanf(" %s", &str3);
-	//printf("Enter string 4\n");
-	//scanf(" %s", &str4);
-	//same(str3, str4);
+	printf("Enter string 3\n");
+	scanf(" %s", &str3);
+	printf("Enter string 4\n");
+	scanf(" %s", &str4);
+	same(str3, str4);
 	
 
 	return 0;
