@@ -24,10 +24,10 @@ int main() {
 	int con(char str1[], char str2[]);
 	void same(char str3[], char str4[]);
 	
-	//printf("Enter array\n");
-	//scanf(" %s", &str);
-	//leng = length(str);
-	//printf("%d\n", leng); 
+	printf("Enter array\n");
+	scanf(" %s", &str);
+	leng = length(str);
+	printf("%d\n", leng); 
 
 
 	printf("Enter string 1\n");
